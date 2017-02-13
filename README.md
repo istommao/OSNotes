@@ -1,7 +1,11 @@
 # OSNotes
-Operating Systems notes
+操作系统笔记
+
+![](./_image/2017-02-13-10-30-28.jpg)
+
 
 ## 计算机系统概述
+[计算机系统概述](notes/summary_of_the_computer_system.md)
 
 ## 操作系统概述
 
@@ -32,5 +36,3 @@ Operating Systems notes
 ## 计算机安全技术
 
 ## 分布式处理、客户/服务器和集群系统
-
-##
