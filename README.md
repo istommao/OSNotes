@@ -8,10 +8,13 @@
 [计算机系统概述](notes/summary_of_the_computer_system.md)
 
 ## 操作系统概述
+[操作系统概述](notes/summary_of_the_operating_system.md)
 
 ## 进程描述和控制
+[进程](notes/progress.md)
 
 ## 线程
+[线程](notes/thread.md)
 
 ## 并发性：互斥和同步
 
